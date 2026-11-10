@@ -123,3 +123,4 @@ export const FavoritesDrawer: React.FC<FavoritesDrawerProps> = ({
     </div>
   );
 };
+

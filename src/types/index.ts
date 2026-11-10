@@ -75,3 +75,4 @@ export interface LiveReport {
   comment: string;
   likes: number;
 }
+

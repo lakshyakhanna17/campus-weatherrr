@@ -215,3 +215,4 @@ export const SpotQuizModal: React.FC<SpotQuizModalProps> = ({
     </div>
   );
 };
+

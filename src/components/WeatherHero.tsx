@@ -224,3 +224,4 @@ export const WeatherHero: React.FC<WeatherHeroProps> = ({
     </div>
   );
 };
+

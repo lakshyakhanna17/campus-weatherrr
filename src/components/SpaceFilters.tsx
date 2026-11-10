@@ -139,3 +139,4 @@ export const SpaceFilters: React.FC<SpaceFiltersProps> = ({
     </div>
   );
 };
+

@@ -266,3 +266,4 @@ export const InteractiveCampusMap: React.FC<InteractiveCampusMapProps> = ({
     </div>
   );
 };
+

@@ -344,3 +344,4 @@ export const SpaceDetailModal: React.FC<SpaceDetailModalProps> = ({
     </div>
   );
 };
+

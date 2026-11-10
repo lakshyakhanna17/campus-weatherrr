@@ -201,3 +201,4 @@ export const SpaceCard: React.FC<SpaceCardProps> = ({
     </div>
   );
 };
+
